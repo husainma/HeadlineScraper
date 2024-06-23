@@ -1,5 +1,5 @@
 # 🅒🅝🅝 News Headlines Scraper
-#### Video Demo: [URL HERE]
+#### Video Demo: [Video will be out soon]
 
 ## Description
 This project is a **Python-based news headlines scraper** that fetches headlines from CNN and saves them in either JSON or CSV format. Users can specify different categories, such as general news, politics, business, sports, etc. It also supports subcategories under sports.
